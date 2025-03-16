@@ -3,16 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\IdentityManagerAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\icontrollerservice\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\icontrollerservice\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\plumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\plumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\icontrollerservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\icontrollerservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\icontrollerservice\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\icontrollerservice\\iworkerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\icontrollerservice\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\icontrollerservice\\igeolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\workerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\icontrollerservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\icontrollerservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\openstreetmapadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\openstreetmapadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\irepos\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\irepos\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\domain\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\domain\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\domain\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\domain\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,72 +87,148 @@
       "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllers\\authusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\identitymanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\identitymanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\irepos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\irepos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\workerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\identitymanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\identitymanagerapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\icontrollerservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\icontrollerservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\configuration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\bearersecurityschemetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\bearersecurityschemetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\middlewares\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\irepos\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\irepos\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\irepos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\irepos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllerservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllerservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\irepos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\irepos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\domain\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\domain\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\repos\\irepos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\repos\\irepos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\image\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\image\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\auth\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\irepos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\irepos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\auth\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\irepos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\irepos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\plumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\plumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\auth\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\openstreetmapadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\openstreetmapadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,6 +237,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\icontrollerservice\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\icontrollerservice\\servicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\icontrollerservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\icontrollerservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\icontrollerservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,12 +255,60 @@
       "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\icontrollerservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\identitymanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\identitymanagerapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\irepos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\irepos\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\dtos\\locationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\irepos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\irepos\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\irepos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\irepos\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\repos\\imagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\migrations\\20250309142322_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,22 +323,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|c:\\users\\hp\\identitymanagerapi\\models\\domain\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A89FB4DF-A248-4F18-9E85-4C84EE4752E6}|Models\\Models.csproj|solutionrelative:models\\domain\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\plumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\plumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanager.services\\controllerservice\\openstreetmapadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A47FBD8-62E3-4CFB-81F6-6BB7041EFB60}|IdentityManager.Services\\IdentityManager.Services.csproj|solutionrelative:identitymanager.services\\controllerservice\\openstreetmapadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\images\\20250308184426642.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\images\\20250308184426642.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
@@ -155,12 +331,12 @@
       "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\images\\asd..jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\configuration\\applicationuserconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|c:\\users\\hp\\identitymanagerapi\\dataacess\\migrations\\20250309214319_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27AFB5C8-5876-48D6-B8E1-0BCA2FA09D71}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\migrations\\20250309214319_test5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|c:\\users\\hp\\identitymanagerapi\\identitymanagerapi\\migrations\\20250316000359_test7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748F6A5-B78D-4782-A185-F5DC1B4944B4}|IdentityManagerAPI\\IdentityManagerAPI.csproj|solutionrelative:identitymanagerapi\\migrations\\20250316000359_test7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,7 +346,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,80 +354,413 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\IControllerService\\IService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\IControllerService\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:27:12.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlumberService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\PlumberService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\PlumberService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\PlumberService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\PlumberService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:28:00.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:53:21.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:17:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\Program.cs",
               "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Program.cs",
               "RelativeToolTip": "IdentityManagerAPI\\Program.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHAAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAFQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:17:40.915Z"
+              "WhenOpened": "2025-03-08T11:17:40.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:27:20.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGeolocationService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:26:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\WorkerService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\WorkerService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\WorkerService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\WorkerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:49:52.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorkerService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IWorkerService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\IControllerService\\IWorkerService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IWorkerService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\IControllerService\\IWorkerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:26:50.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OpenStreetMapAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\OpenStreetMapAdapter.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\OpenStreetMapAdapter.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\OpenStreetMapAdapter.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\OpenStreetMapAdapter.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:27:35.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IUserService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\IControllerService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IUserService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\IControllerService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:27:18.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T23:32:10.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\Interface.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\IRepos\\Interface.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\Interface.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\IRepos\\Interface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:10:13.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LocationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\LocationRequest.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\LocationRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\LocationRequest.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\LocationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:59.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\Worker.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Domain\\Worker.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\Worker.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Domain\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:31:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Domain\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\ServiceRequest.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Domain\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\Image.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:13.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\Client.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\Client.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Domain\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:19:20.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Domain\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:14:52.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "IdentityManagerAPI\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:23:35.565Z"
+              "WhenOpened": "2025-03-08T11:23:35.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "AuthUserController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\AuthUserController.cs",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\AuthUserController.cs",
               "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\AuthUserController.cs",
               "RelativeToolTip": "IdentityManagerAPI\\Controllers\\AuthUserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:23:30.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:30:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\UnitOfWork.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:26:30.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WorkerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\WorkerRepository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\WorkerRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\WorkerRepository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\WorkerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:11:10.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\Repository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\Repository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\Repository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:19:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IdentityManagerAPI.http",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\IdentityManagerAPI.http",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\IdentityManagerAPI.http",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\IdentityManagerAPI.http",
+              "RelativeToolTip": "IdentityManagerAPI\\IdentityManagerAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-15T23:53:06.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250316000359_test7.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Migrations\\20250316000359_test7.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Migrations\\20250316000359_test7.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Migrations\\20250316000359_test7.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Migrations\\20250316000359_test7.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:23:30.566Z"
+              "WhenOpened": "2025-03-16T00:03:59.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "IdentityManagerAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "IdentityManagerAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T11:41:21.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Repos\\IRepos\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IUserRepository.cs",
-              "RelativeToolTip": "DataAcess\\Repos\\IRepos\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:21:04.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\appsettings.json",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\appsettings.json",
               "RelativeToolTip": "IdentityManagerAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-08T11:23:45.076Z",
+              "WhenOpened": "2025-03-08T11:23:45.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\IControllerService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\IControllerService\\IAuthService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\IControllerService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:27:07.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 28,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Configuration\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Configuration\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Configuration\\RoleConfiguration.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Configuration\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:12:07.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Configuration\\ApplicationUserConfiguration.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Configuration\\ApplicationUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Configuration\\ApplicationUserConfiguration.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Configuration\\ApplicationUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:12:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "GlobalExceptionHandler.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Middlewares\\GlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\Middlewares\\GlobalExceptionHandler.cs",
@@ -263,331 +772,134 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "20250309214319_test5.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309214319_test5.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250309214319_test5.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309214319_test5.cs",
-              "RelativeToolTip": "DataAcess\\Migrations\\20250309214319_test5.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:43:19.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IdentityManagerAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\IdentityManagerAPI.csproj",
-              "RelativeDocumentMoniker": "IdentityManagerAPI\\IdentityManagerAPI.csproj",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\IdentityManagerAPI.csproj",
-              "RelativeToolTip": "IdentityManagerAPI\\IdentityManagerAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-09T21:36:33.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\Mapper\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingProfile.cs",
-              "RelativeToolTip": "Models\\DTOs\\Mapper\\MappingProfile.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:04:52.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\User\\UserDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\User\\UserDTO.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\User\\UserDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\User\\UserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:58.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\Mapper\\MappingConfig.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingConfig.cs",
-              "RelativeToolTip": "Models\\DTOs\\Mapper\\MappingConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:53.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\Image.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\Image.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\Image.cs",
-              "RelativeToolTip": "Models\\Domain\\Image.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:35.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\Domain\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\Domain\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:27.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LocationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\LocationRequest.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\LocationRequest.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\LocationRequest.cs",
-              "RelativeToolTip": "Models\\DTOs\\LocationRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T23:29:25.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:47.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Repos\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\UserRepository.cs",
-              "RelativeToolTip": "DataAcess\\Repos\\UserRepository.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:38:50.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\ImageRepository.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Repos\\ImageRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\ImageRepository.cs",
-              "RelativeToolTip": "DataAcess\\Repos\\ImageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T13:09:19.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IImageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IImageRepository.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Repos\\IRepos\\IImageRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IImageRepository.cs",
-              "RelativeToolTip": "DataAcess\\Repos\\IRepos\\IImageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:22:33.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IRepository.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Repos\\IRepos\\IRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IRepository.cs",
-              "RelativeToolTip": "DataAcess\\Repos\\IRepos\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:22:35.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAcess\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAcess\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:37:17.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginRequestDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\LoginRequestDTO.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginRequestDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\Auth\\LoginRequestDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:43.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LoginResponseDTO.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginResponseDTO.cs",
-              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\LoginResponseDTO.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginResponseDTO.cs",
-              "RelativeToolTip": "Models\\DTOs\\Auth\\LoginResponseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:43:45.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\AuthService.cs",
-              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\AuthService.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\AuthService.cs",
-              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\AuthService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T16:35:45.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ServiceFactory.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
-              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
-              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:12:40.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
-              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
-              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:44:02.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IGeolocationService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
-              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
-              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T12:08:27.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
-              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
-              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:37:47.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ServiceRequestsController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
-              "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
-              "RelativeToolTip": "IdentityManagerAPI\\Controllers\\ServiceRequestsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T13:17:30.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "20250309142843_IgnoreWorkersTable.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
-              "RelativeToolTip": "DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:28:43.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "IdentityManagerAPI\\Controllers\\LocationController.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "IdentityManagerAPI\\Controllers\\LocationController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T23:32:10.54Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "20250308112738_test1.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250308112738_test1.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250308112738_test1.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250308112738_test1.cs",
-              "RelativeToolTip": "DataAcess\\Migrations\\20250308112738_test1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Title": "BearerSecuritySchemeTransformer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\BearerSecuritySchemeTransformer.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\BearerSecuritySchemeTransformer.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\BearerSecuritySchemeTransformer.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\BearerSecuritySchemeTransformer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:27:39.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "20250309142322_service.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142322_service.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250309142322_service.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142322_service.cs",
-              "RelativeToolTip": "DataAcess\\Migrations\\20250309142322_service.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:23:22.812Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "PlumberService.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\PlumberService.cs",
-              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\PlumberService.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\PlumberService.cs",
-              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\PlumberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T11:45:21.637Z"
+              "WhenOpened": "2025-03-10T11:42:09.923Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T00:31:36.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IUnitOfWork .cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\IRepos\\IUnitOfWork .cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IUnitOfWork .cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\IRepos\\IUnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:25:45.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\UserService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\UserService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\UserService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:27:57.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\UserRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:20:53.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\IRepos\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IUserRepository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\IRepos\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:33:25.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\AuthService.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\ControllerService\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\ControllerService\\AuthService.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\ControllerService\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:26:52.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IRepository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\IRepos\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IRepository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\IRepos\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:31:39.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\ImageRepository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\ImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:17:43.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T22:19:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "Models\\Domain\\ServiceRequest.cs",
@@ -599,7 +911,182 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\Domain\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:27.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Repos\\IRepos\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Repos\\IRepos\\IImageRepository.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\Repos\\IRepos\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:31:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:30:02.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Mapper\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\Mapper\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Mapper\\MappingConfig.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\Mapper\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\image\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\image\\ImageUploadRequestDto.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\image\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\image\\ImageUploadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T21:29:57.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:35.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:39.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "IdentityManagerAPI\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:36.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\User\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\User\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\User\\UserDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\User\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:58.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RegisterRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\Auth\\RegisterRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\Auth\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:45.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "RelativeToolTip": "Models\\DTOs\\Auth\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:43.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\UserService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\UserService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\UserService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:14:30.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\AuthService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\AuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\AuthService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T16:35:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "OpenStreetMapAdapter.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\OpenStreetMapAdapter.cs",
               "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\OpenStreetMapAdapter.cs",
@@ -611,7 +1098,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 55,
+              "Title": "PlumberService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\PlumberService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\PlumberService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\PlumberService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\PlumberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:45:21.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\ServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T13:12:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IUserService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IUserService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:13:44.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IGeolocationService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IGeolocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T12:08:27.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:37:47.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
+              "RelativeDocumentMoniker": "IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
+              "RelativeToolTip": "IdentityManager.Services\\ControllerService\\IControllerService\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T11:44:02.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
               "Title": "Worker.cs",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Worker.cs",
               "RelativeDocumentMoniker": "DataAcess\\Worker.cs",
@@ -623,7 +1182,210 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 65,
+              "Title": "IdentityManagerAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\IdentityManagerAPI.csproj",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\IdentityManagerAPI.csproj",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\IdentityManagerAPI.csproj",
+              "RelativeToolTip": "IdentityManagerAPI\\IdentityManagerAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T21:36:33.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAcess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAcess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:37:17.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ApplicationUserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
+              "RelativeToolTip": "DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:22:14.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Repos\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\UserRepository.cs",
+              "RelativeToolTip": "DataAcess\\Repos\\UserRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:38:50.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:35.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Repos\\IRepos\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IUserRepository.cs",
+              "RelativeToolTip": "DataAcess\\Repos\\IRepos\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:21:04.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdentityManagerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdentityManagerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T11:41:21.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250309214319_test5.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309214319_test5.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250309214319_test5.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309214319_test5.cs",
+              "RelativeToolTip": "DataAcess\\Migrations\\20250309214319_test5.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:43:19.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Models\\DTOs\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:04:52.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\Mapper\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\Mapper\\MappingConfig.cs",
+              "RelativeToolTip": "Models\\DTOs\\Mapper\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:43:53.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LocationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\LocationRequest.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\LocationRequest.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\Models\\DTOs\\LocationRequest.cs",
+              "RelativeToolTip": "Models\\DTOs\\LocationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T23:29:25.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\ImageRepository.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Repos\\ImageRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\ImageRepository.cs",
+              "RelativeToolTip": "DataAcess\\Repos\\ImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T13:09:19.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Repos\\IRepos\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IImageRepository.cs",
+              "RelativeToolTip": "DataAcess\\Repos\\IRepos\\IImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:22:33.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Repos\\IRepos\\IRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Repos\\IRepos\\IRepository.cs",
+              "RelativeToolTip": "DataAcess\\Repos\\IRepos\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:22:35.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20250309142843_IgnoreWorkersTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
+              "RelativeToolTip": "DataAcess\\Migrations\\20250309142843_IgnoreWorkersTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:28:43.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250308112738_test1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250308112738_test1.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250308112738_test1.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250308112738_test1.cs",
+              "RelativeToolTip": "DataAcess\\Migrations\\20250308112738_test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:27:39.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250309142322_service.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142322_service.cs",
+              "RelativeDocumentMoniker": "DataAcess\\Migrations\\20250309142322_service.cs",
+              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Migrations\\20250309142322_service.cs",
+              "RelativeToolTip": "DataAcess\\Migrations\\20250309142322_service.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:23:22.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
               "Title": "20250308184426642.jpg - Bitmap [1280x720, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Images\\20250308184426642.jpg",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\Images\\20250308184426642.jpg",
@@ -635,7 +1397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 81,
               "Title": "asd..jpg - Bitmap [2160x1914, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\IdentityManagerAPI\\Images\\asd..jpg",
               "RelativeDocumentMoniker": "IdentityManagerAPI\\Images\\asd..jpg",
@@ -644,18 +1406,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-03-08T11:41:55.71Z",
               "EditorCaption": " - Bitmap [2160x1914, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ApplicationUserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
-              "RelativeDocumentMoniker": "DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
-              "ToolTip": "C:\\Users\\hp\\IdentityManagerAPI\\DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
-              "RelativeToolTip": "DataAcess\\Configuration\\ApplicationUserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T11:22:14.617Z"
             }
           ]
         }

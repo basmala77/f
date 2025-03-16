@@ -76,11 +76,37 @@
   {
     "ContainingType": "IdentityManagerAPI.Controllers.ServiceRequestsController",
     "Method": "GetAllService",
-    "RelativePath": "api/ServiceRequests",
+    "RelativePath": "api/ServiceRequests/AllService",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IdentityManagerAPI.Controllers.ServiceRequestsController",
+    "Method": "GetNearbyWorker",
+    "RelativePath": "api/ServiceRequests/workers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userLat",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "userLon",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -95,6 +121,117 @@
         "Name": "File",
         "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "GetWorker",
+    "RelativePath": "api/Worker/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "AddWorker",
+    "RelativePath": "api/Worker/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "worker",
+        "Type": "DataAcess.Worker",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "GetAllWorkers",
+    "RelativePath": "api/Worker/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "GetWorkersByCategory",
+    "RelativePath": "api/Worker/By_category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "category",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "DeleteWorker",
+    "RelativePath": "api/Worker/delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "GetTopRatedWorkers",
+    "RelativePath": "api/Worker/Top_Worker",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WorkerController",
+    "Method": "UpdateWorker",
+    "RelativePath": "api/Worker/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "updatedWorker",
+        "Type": "DataAcess.Worker",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

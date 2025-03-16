@@ -15,6 +15,10 @@ using Microsoft.Extensions.FileProviders;
 using IdentityManagerAPI.Middlewares;
 using IdentityManager.Services.ControllerService.IControllerService;
 using IdentityManager.Services.ControllerService;
+using IdentityManagerAPI.ControllerService.IControllerService;
+using IdentityManagerAPI.ControllerService;
+using IdentityManagerAPI.Repos.IRepos;
+using IdentityManagerAPI.Repos;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -48,11 +52,15 @@ builder.Services.AddScoped<IGeolocationService, OpenStreetMapAdapter>();
 // Add Services
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IWorkerFacadeService, WorkerFacadeService>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 
 // Add Repositories
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IImageRepository, ImageRepository>();
+builder.Services.AddScoped<IWorkerRepository, WorkerRepository>();
+
 
 // Add OpenAPI with Bearer Authentication Support
 builder.Services.AddOpenApi("v1", options =>
@@ -104,11 +112,11 @@ app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 app.UseAuthentication(); 
 app.UseAuthorization();
 
-app.UseStaticFiles(new StaticFileOptions
-{
-    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Images")),
-    RequestPath = "/Images"
-});
+//app.UseStaticFiles(new StaticFileOptions
+//{
+//    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Images")),
+//    RequestPath = "/Images"
+//});
 
 app.MapControllers();
 
